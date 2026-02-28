@@ -1,5 +1,12 @@
 # 🥷 Naruto Character Explorer
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=json&logoColor=white)
+![Theme](https://img.shields.io/badge/Theme-Akatsuki-8A0303?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 An interactive character search web application inspired by the Naruto universe. This project allows users to search for a shinobi by name and instantly view detailed information such as clan, village affiliation, jutsu, ninja rank, and current status.
 
 The goal of this project was to practice real-world API integration, modern JavaScript (ES6+), dynamic DOM manipulation, and themed UI design while building something inspired by one of my favorite anime worlds.
@@ -39,8 +46,6 @@ The goal of this project was to practice real-world API integration, modern Java
 ### 🔴 Sakura Search
 
 ![preview](./preview/preview3.png)
-
-
 
 ## 🛠 Tech Stack
 
