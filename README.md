@@ -1,71 +1,95 @@
 # 🥷 Naruto Character Explorer
 
-Naruto Character Explorer is an upcoming interactive character search web application inspired by the Naruto anime universe.
+An interactive character search web application inspired by the Naruto universe. This project allows users to search for a shinobi by name and instantly view detailed information such as clan, village affiliation, jutsu, ninja rank, and current status.
 
-This project will allow users to search for a shinobi by name and view detailed information such as clan, village affiliation, jutsu, ninja rank, and current status. It is being built to practice API integration, modern JavaScript, and clean UI design.
+The goal of this project was to practice real-world API integration, modern JavaScript (ES6+), dynamic DOM manipulation, and themed UI design while building something inspired by one of my favorite anime worlds.
 
 ---
 
-## 🚀 Planned Features
+## 🚀 Features
 
-* 🔎 Search for characters by name
+* 🔎 Search characters by name
 * 🖼 Display official character images
 * 🏯 Show clan information
 * 🌍 Show village affiliation
-* 🔥 Display known jutsu
-* 🎖 Show ninja rank
-* 💀 Display character status (Alive/Dead/Unknown)
+* 🔥 Display known jutsu (limited for clean UI)
+* 🎖 Show ninja rank (Part I / Part II when available)
+* 💀 Display character status (Alive / Dead / Unknown)
 * ⚡ Fetch data using the Fetch API with async/await
-* ❗ Handle missing or unavailable data gracefully
+* ❗ Graceful handling of missing or incomplete API data
+* 🩸 Akatsuki-inspired red and black theme
+* 🌫 Smooth fade-in animation for character cards
 
 ---
 
+## 🖼 Preview
+
+### 🔴 Kakashi Search
+
+![preview](./preview0.png)
+
+### 🔴 Naruto Search
+
+![preview](./preview1.png)
+
+### 🔴 Sasuke Search
+
+![preview](./preview2.png)
+
+### 🔴 Sakura Search
+
+![preview](./preview3.png)
+
+
+
 ## 🛠 Tech Stack
 
-* HTML
-* CSS
+* HTML5
+* CSS3 (Animations & Theme Styling)
 * JavaScript (ES6+)
 * Dattebayo Naruto API
 
 ---
 
-## 📂 Planned Project Structure
+## 📂 Project Structure
 
 naruto-character-explorer/
 │
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── README.md
 
 ---
 
-## 🧠 Learning Goals
-
-Through building this project, I aim to strengthen my understanding of:
+## 🧠 What I Practiced
 
 * Working with external REST APIs
 * Using async/await for asynchronous operations
 * DOM manipulation and dynamic content rendering
-* Handling nested API responses
-* Implementing proper error handling
+* Handling nested JSON responses
+* Defensive programming and error handling
+* Creating animated UI effects with CSS
 
 ---
 
-## 🎯 Future Enhancements
+## 🔮 Future Enhancements
 
-* Enable search using the Enter key
 * Display multiple matching results
-* Add filters (Village, Clan, Rank)
-* Implement modal popups for detailed views
+* Add advanced filters (Village, Clan, Rank)
+* Implement modal popups for detailed character views
 * Add pagination for large result sets
-* Improve UI with animations and enhanced responsiveness
+* Improve responsiveness for all screen sizes
+* 🌥 Add animated Akatsuki clouds in the background
+* 🔴 Add a red cursor glow effect for immersive interaction
+* 🎵 Add a background music toggle (Akatsuki theme)
 
 ---
 
-## 🌐 Live Demo
+## 📌 Status
 
-(Will be added after deployment.)
+For now, this project is completed. It may receive updates in the very far future as I continue improving my frontend skills.
 
 ---
 
-Currently under development 🥷🔥
+Made with passion for the shinobi world 🥷🩸🔥
