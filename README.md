@@ -26,19 +26,19 @@ The goal of this project was to practice real-world API integration, modern Java
 
 ### 🔴 Kakashi Search
 
-![preview](./preview0.png)
+![preview](./preview/preview0.png)
 
 ### 🔴 Naruto Search
 
-![preview](./preview1.png)
+![preview](./preview/preview1.png)
 
 ### 🔴 Sasuke Search
 
-![preview](./preview2.png)
+![preview](./preview/preview2.png)
 
 ### 🔴 Sakura Search
 
-![preview](./preview3.png)
+![preview](./preview/preview3.png)
 
 
 
